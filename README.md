@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <h3>👨‍💻 Front End Developer </h3>
 
-- 🔭 I’m currently working on sharpening my **React** skills
 
-- 🌱 I’m currently using **React** and learning **Python**
+- 🌱 I work with **React** and  **Typescript**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/afolasope?tab=repositories)
 
